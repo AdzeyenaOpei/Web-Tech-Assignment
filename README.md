@@ -9,7 +9,7 @@ This application/project was created as a submission to my Web Technologies Cour
 
 ## Screenshots
 - All Users Response
-![screenshot](images/All%20users.png)
+![screenshot](images/All%20Users.png)
 
 - Users/:id Response
 ![screenshot](images/User-id.png)
