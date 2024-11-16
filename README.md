@@ -27,7 +27,7 @@ This application/project was created as a submission to my Web Technologies Cour
 ![screenshot](images/User-name.png)
 
 - Users/name/:name error Response
-![screenshot](images/User-name-errorr.png)
+![screenshot](images/User-name-error.png)
 
 
 ### Built With
